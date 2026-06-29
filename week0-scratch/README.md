@@ -1,5 +1,5 @@
 ## Week 0 Project
-![Road & Roll](week0-scratch/Road & Roll.png)
+![Road & Roll](Road & Roll.png)
 
 **Road & Roll**
 

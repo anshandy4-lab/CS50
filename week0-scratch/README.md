@@ -1,7 +1,7 @@
 
 ## Week 0 Project-The Obstacal 
 
-![Road & Roll].(roadroll.png)https://github.com/anshandy4-lab/CS50/blob/310a0cdb9d8f42105989edb3ba66a96ef3e6f00f/week0-scratch/roadroll.png
+![Road & Roll].(roadroll.png) 
 
 **Road & Roll**
 

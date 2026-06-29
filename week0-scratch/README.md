@@ -1,5 +1,5 @@
 
-## Week 0 Project-The Obstacal 
+## Week 0 Project-The Obstacal Game
 
 ![Road & Roll](roadroll.png) 
 
